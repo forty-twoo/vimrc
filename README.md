@@ -20,11 +20,11 @@ runtime! ./modules/pluginx.vim " 加载插件配置
 * 配置文件实例: [vim-plug configuration](https://github.com/iosmanthus/vimrc/blob/master/modules/vim-plug.vim)
 
 # 截图
-> `Rust `
-![Imgur](https://i.imgur.com/xDaYXUQ.gifv)
+> `Rust`
+![Imgur](https://media.giphy.com/media/5UyPFDiFDdWQAKNBKK/giphy.gif)
 
 > `C/C++`
-![Imgur](https://i.imgur.com/gsmKsXL.gifv)
+![Imgur](https://media.giphy.com/media/YVr9KeZNU0cS5sgErB/giphy.gif)
 
 # 安装
 1. 将仓库克隆到本地, 覆盖前请自行备份自己的配置文件
