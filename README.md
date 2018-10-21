@@ -20,10 +20,12 @@ runtime! ./modules/pluginx.vim " 加载插件配置
 * 配置文件实例: [vim-plug configuration](https://github.com/iosmanthus/vimrc/blob/master/modules/vim-plug.vim)
 
 # 截图
-> `Rust`
+* `Rust`
+
 ![Imgur](https://media.giphy.com/media/5UyPFDiFDdWQAKNBKK/giphy.gif)
 
-> `C/C++`
+* `C/C++`
+
 ![Imgur](https://media.giphy.com/media/YVr9KeZNU0cS5sgErB/giphy.gif)
 
 # 安装
