@@ -31,7 +31,7 @@ runtime! ./modules/pluginx.vim " 加载插件配置
 ```sh
 git clone https://github.com/iosmanthus/vimrc ~/.vim
 mkdir .vim/swap # 将swap文件都放到这里...
-vim -c +PlugInstall # 安装所有插件
+vim -c ":PlugInstall" # 安装所有插件
 ```
 
 2. 安装系统依赖
