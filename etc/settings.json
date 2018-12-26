@@ -1,5 +1,5 @@
 {
   "initializationOptions": {
-    "cacheDirectory": ".cache"
+    "cacheDirectory": "/tmp/cquery"
   }
 }

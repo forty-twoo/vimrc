@@ -1,0 +1,15 @@
+{
+  "coc.preferences.diagnostic.enable": false,
+  "coc.preferences.snippetIndicator": " ▣",
+  "rust-client.channel": "stable",
+  "languageserver": {
+    "cquery": {
+      "command": "cquery",
+      "args": ["--log-file=/tmp/cquery.log"],
+      "filetypes": ["c", "cpp"],
+      "initializationOptions": {
+        "cacheDirectory": "/tmp/cquery"
+      }
+    }
+  }
+}

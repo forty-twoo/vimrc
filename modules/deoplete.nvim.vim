@@ -3,8 +3,8 @@ fun s:setup()
   let g:deoplete#enable_at_startup = 1
 
   call deoplete#custom#option({
-        \ 'auto_complete_delay': 0,
-        \ 'async_timeout': 0,
+        \ 'auto_complete_delay': 1,
+        \ 'async_timeout': 1,
         \ 'auto_refresh_delay': 1,
         \ 'smart_case': v:true,
         \ 'min_pattern_length': 1,
